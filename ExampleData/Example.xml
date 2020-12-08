@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<Publications>
+
+  <Publication>
+    <LastName>Омельчук</LastName>
+    <FirstName>Людмила</FirstName>
+    <MiddleName>Леонідівна</MiddleName>
+
+
+    <Faculty>Комп'ютерних наук та кібернетики</Faculty>
+    <Cathedra>Теорії та технології програмування</Cathedra>
+    <Topic>С# ооп</Topic>
+    <Date>25.03.2017</Date>
+  </Publication>
+
+
+  <Publication>
+    <LastName>Шкільняк</LastName>
+    <FirstName>Степан</FirstName>
+    <MiddleName>Степанович</MiddleName>
+
+    <Faculty>Комп'ютерних наук та кібернетики</Faculty>
+    <Cathedra>Теорії та технології програмування</Cathedra>
+    <Topic>Мат логіка</Topic>
+    <Date>01.01.0001</Date>
+  </Publication>
+
+
+  <Publication>
+    <LastName>Коваль</LastName>
+    <FirstName>Юрій</FirstName>
+    <MiddleName>Віталійович</MiddleName>
+
+    <Faculty>Комп'ютерних наук та кібернетики</Faculty>
+    <Cathedra>Теоретичної кібернетики</Cathedra>
+    <Topic>Прибульці</Topic>
+    <Date>04.05.2077</Date>
+  </Publication>
+
+
+  <Publication>
+    <LastName>Карнаух</LastName>
+    <FirstName>Тетяна</FirstName>
+    <MiddleName>Олександрівна</MiddleName>
+
+    <Faculty>Комп'ютерних наук та кібернетики</Faculty>
+    <Cathedra>Теоретичної кібернетики</Cathedra>
+    <Topic>Дискретна математика</Topic>
+    <Date>15.07.1998</Date>
+  </Publication>
+
+
+  <Publication>
+    <LastName>Закусило</LastName>
+    <FirstName>Олег</FirstName>
+    <MiddleName>Каленикович</MiddleName>
+
+    <Faculty>Комп'ютерних наук та кібернетики</Faculty>
+    <Cathedra>Дослідження операцій</Cathedra>
+    <Topic>Проректор є проректор</Topic>
+    <Date>17.10.2014</Date>
+  </Publication>
+
+
+  <Publication>
+    <LastName>Якимів</LastName>
+    <FirstName>Роман</FirstName>
+    <MiddleName>Ярославович</MiddleName>
+
+    <Faculty>Комп'ютерних наук та кібернетики</Faculty>
+    <Cathedra>Дослідження операцій</Cathedra>
+    <Topic>Камон еврібаді, це ж методи роз'язування ЗЛП</Topic>
+    <Date>01.09.2020</Date>
+  </Publication>
+  
+</Publications>
